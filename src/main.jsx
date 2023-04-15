@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import Coba from './Coba';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
-import CreateProduct from './pages/createProduct';
+import CreateProduct from './pages/CreateProduct';
 import LandingPage from './pages/LandingPage';
 import RootLayoutProduct from './layouts/rootLayoutProduct';
 import RootLayoutLanding from './layouts/rootLayoutLanding';
